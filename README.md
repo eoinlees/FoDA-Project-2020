@@ -1,10 +1,10 @@
 # Fundamentals of Data Analytics - Project-2020 
-## Eoin Lees - G00387888 - December 2020
+## Eoin Lees - G00387888 - January 2021
 
 
 The following program is an assignment for the Fundamentals of Data Analytics module in December 2020. 
 
-A total of four tasks were given throughout the semester with a deadline of December 18th 2020
+A total of four tasks were given throughout the semester with a deadline of January 8th 2021
 
 It is run using Jupyter notebooks.
 
